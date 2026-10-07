@@ -21,7 +21,7 @@ Unity で作ったゲーム（[blanche-de-noel-unity](https://github.com/shiloku
 | --- | --- | --- |
 | Build | すべてのブランチへの push | 署名なしで実機向けにビルドする |
 | Archive | すべてのブランチへの push | Archive して IPA を書き出す |
-| Release | `develop` / `main` への push | Archive した IPA を App Store Connect（TestFlight）へアップロードする |
+| Release | `develop` / `main` への push または手動実行 | Archive した IPA を App Store Connect（TestFlight）へアップロードする |
 
 ## 注意
 Unity から Xcode プロジェクトを書き出し直したときに、この README が消えたことがあります。書き出し後は差分を確認してから commit してください。
