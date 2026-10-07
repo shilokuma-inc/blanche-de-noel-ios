@@ -8,7 +8,7 @@ Unity で作ったゲーム（[blanche-de-noel-unity](https://github.com/shiloku
 ## Environment
 - Unity 2021.3.19f1
 - Xcode（GitHub Actions では latest-stable）
-- iOS 11.0+
+- iOS 15.0+
 
 ## Status
 
